@@ -1,4 +1,4 @@
-#usr/bin/python3
+#!/usr/bin/python3
 # Author - Thobile
 """Print the number fromm 1 to 100 seperated by a space"""
 def fizzbuzz():
